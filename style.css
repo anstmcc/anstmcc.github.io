@@ -1,0 +1,21 @@
+h1{
+    color: rgb(8, 8, 87);
+}
+h2{
+    color: rgb(8, 8, 87);
+    border-bottom: 1px solid;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color:rgb(169, 49, 49);
+}
+body{
+    background-color: rgb(210, 233, 233);
+    padding-left:15px;
+    padding-right: 15px;
+}
+#info{
+    line-height: 1.5em;
+}
